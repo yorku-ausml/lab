@@ -31,7 +31,6 @@
 - [ICRA 2019 Workshop (May, Canada)](https://www.icra2019.org/)
 - [ITSC 2019 (Oct, New Zealand)](https://www.itsc2019.org/) [Submission: Mar 31]
 - [CRV 2019 (May, Canada)](https://www.eecs.yorku.ca/~mbrown/CRV19/) [Submission: Feb 11]
-<br/>
 
 
 
