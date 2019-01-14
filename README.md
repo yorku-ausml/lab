@@ -1,4 +1,4 @@
-# Lab Info (2019)
+# Lab Info (Year 2019)
 
 ## Current members
 - Researcher: Connie, Jungwon, Pio, Seungho, Yujia
