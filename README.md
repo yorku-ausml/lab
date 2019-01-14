@@ -22,7 +22,7 @@
   - [Registration](https://www.eventbrite.ca/e/a-brazen-journey-of-smart-wheelchairs-from-research-to-market-tickets-53998653426)
 <br/>
 
-## Related conferences & journal (Year is 2019)
+## Related conferences & journal
 - [MDPI drones - Special Issue "UAS Navigation and Orientation"](https://www.mdpi.com/journal/drones/special_issues/uav_navori) [Submission: Jan 31]
 - [ISPRS Geospatial Week (June, Netherlands)](https://www.gsw2019.org/) [Submission: Jan 17(Full paper), Feb 4 (Abstract)]
   - [UAV-g – Unmanned Aerial Vehicles in Geomatics](http://www.uav-g.com/)
