@@ -14,7 +14,7 @@
 <br/>
 
 ## Group meeting (internal)
-- Dr. Yujia Zhang, A Structured Light Based 3D Reconstruction Using Combined Circular Phase Shifting Patterns, PSE 317, 1-2PM Thur Jan 17
+- Dr. Yujia Zhang, A Structured Light Based 3D Reconstruction Using Combined Circular Phase Shifting Patterns, PSE 422, 12-2PM Thur Jan 17
 <br/>
 
 ## Seminar (public)
