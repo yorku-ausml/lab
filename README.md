@@ -13,7 +13,15 @@
 - [QDrone](https://github.com/yorku-ausml/qdrone)
 <br/>
 
-## Related conferences & journal
+## Group meeting
+- Dr. Yujia Zhang, A Structured Light Based 3D Reconstruction Using Combined Circular Phase Shifting Patterns, PSE 317, 1PM Thur Jan 17
+<br/>
+
+## Seminar
+- 
+<br/>
+
+## Related conferences & journal (Year is 2019)
 - [MDPI drones - Special Issue "UAS Navigation and Orientation"](https://www.mdpi.com/journal/drones/special_issues/uav_navori) [Submission: Jan 31]
 - [ISPRS Geospatial Week (June, Netherlands)](https://www.gsw2019.org/) [Submission: Jan 17(Full paper), Feb 4 (Abstract)]
   - [UAV-g – Unmanned Aerial Vehicles in Geomatics](http://www.uav-g.com/)
