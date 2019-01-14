@@ -14,7 +14,7 @@
 <br/>
 
 ## Related conferences & journal
-- [MDPI drones - Special Issue "UAS Navigation and Orientation"](https://www.mdpi.com/journal/drones/special_issues/uav_navori)
+- [MDPI drones - Special Issue "UAS Navigation and Orientation"](https://www.mdpi.com/journal/drones/special_issues/uav_navori) [aaa]
 - 
 - 
 - 
