@@ -13,11 +13,11 @@
 - [QDrone](https://github.com/yorku-ausml/qdrone)
 <br/>
 
-## Group meeting
+## Group meeting (internal)
 - Dr. Yujia Zhang, A Structured Light Based 3D Reconstruction Using Combined Circular Phase Shifting Patterns, PSE 317, 1-2PM Thur Jan 17
 <br/>
 
-## Seminar
+## Seminar (public)
 - Pooja Viswanathan, A Braze(n) Journey of Smart Wheelchairs: from Research to Market, LAS 3033, 12-1PM, Tue, Jan 29, VISTA Innovation Seminar
   - [Registration](https://www.eventbrite.ca/e/a-brazen-journey-of-smart-wheelchairs-from-research-to-market-tickets-53998653426)
 <br/>
