@@ -32,5 +32,6 @@
 - [ITSC 2019 (Oct, New Zealand)](https://www.itsc2019.org/) [Submission: Mar 31]
 - [CRV 2019 (May, Canada)](https://www.eecs.yorku.ca/~mbrown/CRV19/) [Submission: Feb 11]
   - [PhotoGA 19](http://www2.isprs.org/commissions/comm2/wg1/PhotoGA19.html) [Submission: Mar 22]
+- [2019 TAC-ITS Canada Joint Conference & Exhibition](https://tac-its.ca/call-submissions)
 <br/>
 
