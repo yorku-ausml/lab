@@ -2,7 +2,7 @@
 
 ## Current members
 - Researcher: Connie, Jungwon, Pio, Seungho, Yujia
-- Student: Ali, Kivanc, Yi-Chen, Maryam, Zahra, Afnan, Kunwoo, Kang, David
+- Student: Ali, Kivanc, Maryam, Zahra, Afnan, Kunwoo, Kang, David
 <br/>
 
 ## Sub-groups
@@ -31,5 +31,6 @@
 - [ICRA 2019 Workshop (May, Canada)](https://www.icra2019.org/)
 - [ITSC 2019 (Oct, New Zealand)](https://www.itsc2019.org/) [Submission: Mar 31]
 - [CRV 2019 (May, Canada)](https://www.eecs.yorku.ca/~mbrown/CRV19/) [Submission: Feb 11]
+  - [PhotoGA 19](http://www2.isprs.org/commissions/comm2/wg1/PhotoGA19.html) [Submission: Mar 22]
 <br/>
 
