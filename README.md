@@ -1,16 +1,16 @@
 # Lab Info (Year 2019)
 
 ## Current members
-- Researcher: Connie, Jungwon, Pio, Seungho, Yujia
+- Researcher: Connie, Jungwon, Pio, Seungho, Yujia, Leihan
 - Student: Ali, Kivanc, Maryam, Zahra, Afnan, Kunwoo, Kang, David
 <br/>
 
 ## Sub-groups
-- [ISSUM](http://issum.yorku.ca/)
 - [Building footprint from satellite images](https://github.com/yorku-ausml/deep_satellite_image_segmentation)
-- [Point cloud segmentation and object detection](https://github.com/yorku-ausml/deep3d)
+- [ISSUM](http://issum.yorku.ca/)
 - SLAM
-- [QDrone](https://github.com/yorku-ausml/qdrone)
+- [Point cloud segmentation and object detection](https://github.com/yorku-ausml/deep3d)
+- [QDrone (in conjunction with SLAM)](https://github.com/yorku-ausml/qdrone)
 <br/>
 
 ## Group meeting (internal)
