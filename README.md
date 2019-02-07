@@ -13,8 +13,8 @@
 - [QDrone (in conjunction with SLAM)](https://github.com/yorku-ausml/qdrone)
 <br/>
 
-## Group meeting (internal)
-- Every Thurs 11am-12pm
+## Weekly lab meeting (internal)
+- Every Thurs 11am-12pm at PSE258
 - Feb 7/14/21/28, Mar 7/14/21/28, Apr 4/11/18/25
 - Dr. Yujia Zhang, A Structured Light Based 3D Reconstruction Using Combined Circular Phase Shifting Patterns, PSE 422, 12-2PM Thur Jan 17
 <br/>
