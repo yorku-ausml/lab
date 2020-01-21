@@ -1,11 +1,11 @@
 # Lab Info
-Updated on Sept 22 2019
+Updated on Jan 21 2020
 
 ## Current members
-- Adjunct professor: Connie
-- Postdoc: Ali, Jungwon, Pio, Seungho, Yujia
-- Student: Kivanc, Maryam, Zahra, Muhammad, Afnan, Amin, Kunwoo, Jacob
-- Intern: Harry, Hyungju
+- Adjunct professor (1): Connie
+- Postdoc (5): Ali, Jungwon, Pio, Seungho, Yujia
+- Student (9): Kivanc, Maryam, Zahra, Muhammad, Afnan, Amin, Reza, Kunwoo, Jacob
+- Intern (2): Harry, Hyungju
 <br/>
 
 
@@ -17,6 +17,9 @@ Updated on Sept 22 2019
   - Deadline for « very early bird » Registrations: Oct 31, 2019
 - [IROS](http://www.iros2020.org/)
   - Submission deadline: Mar 1, 2020
+<br/>
 
-
+## Etc
+- Lab file server: https://pse312-nas.eng.yorku.ca:5001
+<br/>
 
