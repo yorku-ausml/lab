@@ -4,7 +4,8 @@ Updated on Jan 21 2020
 ## Current members
 - Adjunct professor (1): Connie
 - Postdoc (5): Ali, Jungwon, Pio, Seungho, Yujia
-- Student (9): Kivanc, Maryam, Zahra, Muhammad, Afnan, Amin, Reza, Kunwoo, Jacob
+- Student (Full) (10): Kivanc, Maryam, Zahra, Muhammad, Afnan, Amin, Reza, Tengziao, Kunwoo, Jacob
+- Student (Part) (1): Hadi
 - Intern (2): Harry, Hyungju
 <br/>
 
