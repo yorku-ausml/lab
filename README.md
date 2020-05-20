@@ -9,7 +9,4 @@ Updated on May 1 2020
 - Intern (6) (May to Aug): Sun, Sid, Kiishi, Brian, Thao, Hyungju
 <br/>
 
-## Etc
-- Lab file server: https://pse312-nas.eng.yorku.ca:5001
-<br/>
 
