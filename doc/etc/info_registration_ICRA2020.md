@@ -54,6 +54,12 @@ Register NOW: https://www.icra2020.org/registration/register-here
 We look forward to connecting with you online!
 
 Thank you very much,
+</br>
+
 
 Stephane Regenier, General Chair
+
 Wolfram Burgard, Program Chair
+</br>
+</br>
+
