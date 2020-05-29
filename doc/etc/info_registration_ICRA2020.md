@@ -47,7 +47,7 @@ The conference will also feature a virtual industrial exhibit, and feature an Ac
 Workshop and tutorial attendance is free of charge.
 
 
-Register NOW: https://www.icra2020.org/registration/register-here
+**Register NOW**: https://www.icra2020.org/registration/register-here
 </br>
 </br>
 
