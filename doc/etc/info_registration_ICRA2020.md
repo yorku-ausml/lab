@@ -29,16 +29,11 @@ https://ras.papercept.net/conferences/conferences/ICRA20/program/
 With the goal of offering benefits to community members in all regions
 of the world, we offer very affordable registration rates:
 
-
-IEEE Student Member: EURO 25.00
-
-Student Non-Member: EURO 25.00
-
-IEEE Member: EURO 100.00
-
-Non-Member: EURO 150.00
-
-IEEE Life Member: Free
+  - IEEE Student Member: EURO 25.00
+  - Student Non-Member: EURO 25.00
+  - IEEE Member: EURO 100.00
+  - Non-Member: EURO 150.00
+  - IEEE Life Member: Free
 
 
 Registration fees provide online access to over 1600 papers and presentations. 
