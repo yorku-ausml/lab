@@ -15,10 +15,10 @@ Information on speakers, technical programs, exhibitors, social events
 and more is available on the ICRA website. Check back often as new
 program content will be added daily!
 
-Early look into proceedings at:
+**Early look into proceedings at**:
 https://ras.papercept.net/conferences/conferences/ICRA20/program/
 
-Workshops and tutorials will be held live on different dates, check the list at: https://www.icra2020.org/program/workshops-and-tutorials
+**Workshops and tutorials** will be held live on different dates, check the list at: https://www.icra2020.org/program/workshops-and-tutorials
 </br>
 </br>
 
