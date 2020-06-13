@@ -2,7 +2,8 @@
 
 1. [Main Conference](http://cvpr2020.thecvf.com/program/main-conference)
     - [1_CVPR2020_Main_Conference.pdf](./files/1_CVPR2020_Main_Conference.pdf)
-    - June 16(Tue), 17(Wed), 18(Thur)
+    - http://openaccess.thecvf.com/CVPR2020.py
+	- June 16(Tue), 17(Wed), 18(Thur)
 	
 2. [Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
     - [2_CVPR2020_Tutorials.pdf](./files/2_CVPR2020_Tutorials.pdf)
