@@ -2,7 +2,7 @@
 
 Updated on March 7 2021.
 
-This is a list for conferences in which we can submit for SLAM. 
+This is a list for conferences to which we can submit for SLAM. 
 <br/>
 <br/>
 
