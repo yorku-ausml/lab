@@ -19,4 +19,12 @@ This is a list for conferences to which we can submit for SLAM in this year.
   - Full paper submission: Sept 2021 (TBD)
   - Conference: May 23 - 27, 2022, Philadelphia, United States
 <br/>
+
+
+#### 3DV 2021
+  - https://3dv2021.surrey.ac.uk/
+  - Full paper submission: July 30 2021
+  - Conference: Dec 1 - 3, 2021, London, UK/Online
 <br/>
+<br/>
+
